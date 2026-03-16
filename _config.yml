@@ -1,0 +1,7 @@
+name: base.eth
+description: Blog Terdesentralisasi
+
+permalink: /:categories/:year/:month/:day/:title.html
+
+markdown: kramdown
+theme: minima # Tema bawaan yang sangat bersih/minimalis
